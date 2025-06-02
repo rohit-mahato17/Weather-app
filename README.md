@@ -37,7 +37,7 @@ This is a **static Weather App UI** built using **HTML** and **CSS** and **JS**.
 ### 🖼️ Preview
 
 <p align="center">
-  <img src="preview.png" alt="Weather App UI Preview" width="80%">
+  <img src="preview.png" alt="Weather App UI Preview" width="50%">
 </p>
 
 ---
@@ -46,7 +46,8 @@ This is a **static Weather App UI** built using **HTML** and **CSS** and **JS**.
 
 - 🌐 HTML5  
 - 🎨 CSS3 (Flexbox, Grid)  
-- 📱 Responsive Web Design  
+- 📱 Responsive Web Design
+- 🟨 JavaScript (Vanilla JS) – For interactivity and dynamic behavior (e.g., future API integration)
 
 ---
 
@@ -60,3 +61,22 @@ weather-app/<br>
 ├── index.html # Main HTML file<br>
 ├── preview.png # App UI preview<br>
 └── README.md # This file<br>
+
+---
+
+📬 Let’s Connect!<br>
+
+📧 Email: rohitmahato88935@gmail.com<br>
+🔗 LinkedIn: linkedin.com/in/rohit-mahato17<br>
+🌐 Portfolio: Coming Soon...<br>
+
+---
+
+### 🚀 Getting Started
+
+1. **Clone the Repository:**
+```bash
+git clone https://github.com/rohitmahato/weather-app.git
+cd weather-app
+
+
