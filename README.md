@@ -71,7 +71,7 @@ weather-app/<br>
 🌐 Portfolio: Coming Soon...<br>
 
 ---
-hk nmL#bol bom
+
 ### 🚀 Getting Started
 
 1. **Clone the Repository:**
