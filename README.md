@@ -79,5 +79,3 @@ weather-app/<br>
 git clone https://github.com/rohitmahato/weather-app.git
 cd weather-app
 ```
-?
-
