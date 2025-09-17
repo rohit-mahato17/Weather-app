@@ -70,12 +70,3 @@ weather-app/<br>
 🔗 LinkedIn: linkedin.com/in/rohit-mahato17<br>
 🌐 Portfolio: Coming Soon...<br>
 
----
-
-### 🚀 Getting Started
-
-1. **Clone the Repository:**
-```bash
-git clone https://github.com/rohitmahato/weather-app.git
-cd weather-app
-```
